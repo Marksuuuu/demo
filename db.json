@@ -62,7 +62,7 @@
     "area": "DIE-ATTACH",
     "operation": "5th Optical Inspection-HERM"
   },
-  "index7": {
+  "index8": {
     "id": 7,
     "operator": "Juan De Kinalikot",
     "mo": "MO-0008",
@@ -71,7 +71,7 @@
     "area": "DIE-ATTACH",
     "operation": "4th Optical Inspection-HERM"
   },
-  "index8": {
+  "index9": {
     "id": 8,
     "operator": "Juan De Kinalmot",
     "mo": "MO-0009",
@@ -80,7 +80,7 @@
     "area": "DIE-ATTACH",
     "operation": "4th Optical Inspection-HERM"
   },
-  "index9": {
+  "index10": {
     "id": 9,
     "operator": "Juan Hindi Kalikot",
     "mo": "MO-00010",
@@ -89,7 +89,7 @@
     "area": "DIE-ATTACH",
     "operation": "4th Optical Inspection-HERM"
   },
-  "index10": {
+  "index11": {
     "id": 10,
     "operator": "Juan Hindi Na Kinalikot",
     "mo": "MO-00011",
@@ -97,6 +97,5 @@
     "machine_name": "MCH-11",
     "area": "DIE-ATTACH",
     "operation": "4th Optical Inspection-HERM"
-  },
-
+  }
 }
