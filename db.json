@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    { "id": 0, "operator": "John Raymark LLavanes", "mo": "MO-0001", "operation_code": 1020, "machine_name": "MCH-001", "area": "WIREBOND", "operation": "2nd optical Insp-HPS" },
+    { "id": 1, "operator": "John Rey Dalit", "mo": "MO-0002", "operation_code": 1021, "machine_name": "MCH-002", "area": "MOLD", "operation": "2nd Opt.Insp-Waffle Pack MPPG/MPMP" },
+    { "id": 2, "operator": "Nellaine Delos Santos", "mo": "MO-0003", "operation_code": 1022, "machine_name": "MCH-003", "area": "EOL1", "operation": "2nd Opt.Insp-Waffle Pack IXYS-Germany" },
+    { "id": 3, "operator": "Juan Dela Cruz", "mo": "MO-0004", "operation_code": 1023, "machine_name": "MCH-004", "area": "EOL2", "operation": "2nd Optical Insp-TI Mil" },
+    { "id": 4, "operator": "Juana Dela Cruz", "mo": "MO-0005", "operation_code": 1024, "machine_name": "MCH-005", "area": "DIE-PREP", "operation": "2nd Optical Insp-Inker" }
+    { "id": 5, "operator": "Juan De Kalimot", "mo": "MO-0006", "operation_code": 1025, "machine_name": "MCH-006", "area": "DIE-ATTACH", "operation": "4th Opt.Insp/Lead Trim" },
+    { "id": 6, "operator": "Juan De Kalikot", "mo": "MO-0007", "operation_code": 1026, "machine_name": "MCH-007", "area": "DIE-ATTACH", "operation": "4th Optical Inspection-HERM" },
+ ]
 }
