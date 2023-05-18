@@ -4,7 +4,7 @@
     "operator": "John Raymark LLavanes",
     "mo": "MO-0001",
     "operation_code": 1020,
-    "machine_name": "MCH-001",
+    "machine_name": "MCH-1",
     "area": "WIREBOND",
     "operation": "2nd optical Insp-HPS"
   },
@@ -13,7 +13,7 @@
     "operator": "John Rey Dalit",
     "mo": "MO-0002",
     "operation_code": 1021,
-    "machine_name": "MCH-002",
+    "machine_name": "MCH-2",
     "area": "MOLD",
     "operation": "2nd Opt.Insp-Waffle Pack MPPG/MPMP"
   },
@@ -22,7 +22,7 @@
     "operator": "Nellaine Delos Santos",
     "mo": "MO-0003",
     "operation_code": 1022,
-    "machine_name": "MCH-003",
+    "machine_name": "MCH-3",
     "area": "EOL1",
     "operation": "2nd Opt.Insp-Waffle Pack IXYS-Germany"
   },
@@ -31,7 +31,7 @@
     "operator": "Juan Dela Cruz",
     "mo": "MO-0004",
     "operation_code": 1023,
-    "machine_name": "MCH-004",
+    "machine_name": "MCH-4",
     "area": "EOL2",
     "operation": "2nd Optical Insp-TI Mil"
   },
@@ -40,7 +40,7 @@
     "operator": "Juana Dela Cruz",
     "mo": "MO-0005",
     "operation_code": 1024,
-    "machine_name": "MCH-005",
+    "machine_name": "MCH-5",
     "area": "DIE-PREP",
     "operation": "2nd Optical Insp-Inker"
   },
@@ -49,7 +49,7 @@
     "operator": "Juan De Kalimot",
     "mo": "MO-0006",
     "operation_code": 1025,
-    "machine_name": "MCH-006",
+    "machine_name": "MCH-6",
     "area": "DIE-ATTACH",
     "operation": "4th Opt.Insp/Lead Trim"
   },
@@ -58,8 +58,45 @@
     "operator": "Juan De Kalikot",
     "mo": "MO-0007",
     "operation_code": 1026,
-    "machine_name": "MCH-007",
+    "machine_name": "MCH-7",
+    "area": "DIE-ATTACH",
+    "operation": "5th Optical Inspection-HERM"
+  },
+  "index7": {
+    "id": 7,
+    "operator": "Juan De Kinalikot",
+    "mo": "MO-0008",
+    "operation_code": 1027,
+    "machine_name": "MCH-8",
     "area": "DIE-ATTACH",
     "operation": "4th Optical Inspection-HERM"
-  }
+  },
+  "index8": {
+    "id": 8,
+    "operator": "Juan De Kinalmot",
+    "mo": "MO-0009",
+    "operation_code": 1028,
+    "machine_name": "MCH-9",
+    "area": "DIE-ATTACH",
+    "operation": "4th Optical Inspection-HERM"
+  },
+  "index9": {
+    "id": 9,
+    "operator": "Juan Hindi Kalikot",
+    "mo": "MO-00010",
+    "operation_code": 1029,
+    "machine_name": "MCH-10",
+    "area": "DIE-ATTACH",
+    "operation": "4th Optical Inspection-HERM"
+  },
+  "index10": {
+    "id": 10,
+    "operator": "Juan Hindi Na Kinalikot",
+    "mo": "MO-00011",
+    "operation_code": 1030,
+    "machine_name": "MCH-11",
+    "area": "DIE-ATTACH",
+    "operation": "4th Optical Inspection-HERM"
+  },
+
 }
