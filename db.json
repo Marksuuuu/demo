@@ -1,74 +1,13 @@
 {
-  "machines": {
-    "machine1": {
-      "machine_name": "MCH-1"
-    },
-    "machine2": {
-      "machine_name": "MCH-2"
-    },
-    "machine3": {
-      "machine_name": "MCH-3"
-    },
-    "machine4": {
-      "machine_name": "MCH-4"
-    },
-    "machine5": {
-      "machine_name": "MCH-5"
-    },
-    "machine6": {
-      "machine_name": "MCH-6"
-    },
-    "machine7": {
-      "machine_name": "MCH-7"
-    },
-    "machine8": {
-      "machine_name": "MCH-8"
-    },
-    "machine9": {
-      "machine_name": "MCH-9"
-    },
-    "machine10": {
-      "machine_name": "MCH-10"
-    },
-    "machine11": {
-      "machine_name": "MCH-11"
-    },
-    "machine12": {
-      "machine_name": "MCH-12"
-    },
-    "machine13": {
-      "machine_name": "MCH-13"
-    },
-    "machine14": {
-      "machine_name": "MCH-14"
-    },
-    "machine15": {
-      "machine_name": "MCH-15"
-    },
-    "machine16": {
-      "machine_name": "MCH-16"
-    },
-    "machine17": {
-      "machine_name": "MCH-17"
-    },
-    "machine18": {
-      "machine_name": "MCH-18"
-    },
-    "machine19": {
-      "machine_name": "MCH-19"
-    },
-    "machine20": {
-      "machine_name": "MCH-20"
-    }
-  },
-  "data":{
+  "data": {
     "index1": {
       "id": 0,
       "operator": "John Raymark LLavanes",
       "mo": "MO-0001",
       "operation_code": 1020,
       "area": "WIREBOND",
-      "operation": "2nd optical Insp-HPS"
+      "operation": "2nd optical Insp-HPS",
+      "machine_name": "MCH-1"
     },
     "index2": {
       "id": 1,
@@ -76,7 +15,8 @@
       "mo": "MO-0002",
       "operation_code": 1021,
       "area": "MOLD",
-      "operation": "2nd Opt.Insp-Waffle Pack MPPG/MPMP"
+      "operation": "2nd Opt.Insp-Waffle Pack MPPG/MPMP",
+      "machine_name": "MCH-2"
     },
     "index3": {
       "id": 2,
@@ -84,7 +24,8 @@
       "mo": "MO-0003",
       "operation_code": 1022,
       "area": "EOL1",
-      "operation": "2nd Opt.Insp-Waffle Pack IXYS-Germany"
+      "operation": "2nd Opt.Insp-Waffle Pack IXYS-Germany",
+      "machine_name": "MCH-3"
     },
     "index4": {
       "id": 3,
@@ -100,7 +41,8 @@
       "mo": "MO-0005",
       "operation_code": 1024,
       "area": "DIE-PREP",
-      "operation": "2nd Optical Insp-Inker"
+      "operation": "2nd Optical Insp-Inker",
+      "machine_name": "MCH-2"
     },
     "index6": {
       "id": 5,
