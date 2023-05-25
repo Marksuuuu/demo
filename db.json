@@ -1,4 +1,4 @@
-{
+{ 
   "data": {
     "index1": {
       "id": 0,
@@ -7,7 +7,11 @@
       "operation_code": 1020,
       "area": "WIREBOND",
       "operation": "2nd optical Insp-HPS",
-      "machine_name": "MACHINE-1"
+      "machine_name": "MACHINE-1",
+      "operatorIdNum": 10291,
+      "totalProccessQty": 1102,
+      "oee": "88%",
+      "effectiveNess": "35%"
     },
     "index2": {
       "id": 1,
@@ -16,7 +20,11 @@
       "operation_code": 1021,
       "area": "MOLD",
       "operation": "2nd Opt.Insp-Waffle Pack MPPG/MPMP",
-      "machine_name": "MACHINE-2"
+      "machine_name": "MACHINE-2",
+      "operatorIdNum": 10419,
+      "totalProccessQty": 1211,
+      "oee": "5%",
+      "effectiveNess": "80%"
     },
     "index3": {
       "id": 2,
@@ -25,7 +33,11 @@
       "operation_code": 1022,
       "area": "EOL1",
       "operation": "2nd Opt.Insp-Waffle Pack IXYS-Germany",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10243,
+      "totalProccessQty": 1069,
+      "oee": "28%",
+      "effectiveNess": "93%"
     },
     "index4": {
       "id": 3,
@@ -34,7 +46,11 @@
       "operation_code": 1023,
       "area": "EOL2",
       "operation": "2nd Optical Insp-TI Mil",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10334,
+      "totalProccessQty": 1292,
+      "oee": "72%",
+      "effectiveNess": "71%"
     },
     "index5": {
       "id": 4,
@@ -43,7 +59,11 @@
       "operation_code": 1024,
       "area": "DIE-PREP",
       "operation": "2nd Optical Insp-Inker",
-      "machine_name": "MACHINE-2"
+      "machine_name": "MACHINE-2",
+      "operatorIdNum": 10382,
+      "totalProccessQty": 1175,
+      "oee": "90%",
+      "effectiveNess": "95%"
     },
     "index6": {
       "id": 5,
@@ -52,7 +72,11 @@
       "operation_code": 1025,
       "area": "DIE-ATTACH",
       "operation": "4th Opt.Insp/Lead Trim",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10255,
+      "totalProccessQty": 1048,
+      "oee": "77%",
+      "effectiveNess": "22%"
     },
     "index7": {
       "id": 6,
@@ -61,7 +85,11 @@
       "operation_code": 1026,
       "area": "DIE-ATTACH",
       "operation": "5th Optical Inspection-HERM",
-      "machine_name": "MACHINE-2"
+      "machine_name": "MACHINE-2",
+      "operatorIdNum": 10243,
+      "totalProccessQty": 1047,
+      "oee": "27%",
+      "effectiveNess": "49%"
     },
     "index8": {
       "id": 7,
@@ -70,7 +98,11 @@
       "operation_code": 1027,
       "area": "DIE-ATTACH",
       "operation": "4th Optical Inspection-HERM",
-      "machine_name": "MACHINE-4"
+      "machine_name": "MACHINE-4",
+      "operatorIdNum": 10307,
+      "totalProccessQty": 1032,
+      "oee": "61%",
+      "effectiveNess": "35%"
     },
     "index9": {
       "id": 8,
@@ -79,7 +111,11 @@
       "operation_code": 1028,
       "area": "DIE-ATTACH",
       "operation": "4th Optical Inspection-HERM",
-      "machine_name": "MACHINE-4"
+      "machine_name": "MACHINE-4",
+      "operatorIdNum": 10216,
+      "totalProccessQty": 1275,
+      "oee": "28%",
+      "effectiveNess": "10%"
     },
     "index10": {
       "id": 9,
@@ -88,7 +124,11 @@
       "operation_code": 1029,
       "area": "DIE-ATTACH",
       "operation": "4th Optical Inspection-HERM",
-      "machine_name": "MACHINE-2"
+      "machine_name": "MACHINE-2",
+      "operatorIdNum": 10419,
+      "totalProccessQty": 1017,
+      "oee": "82%",
+      "effectiveNess": "48%"
     },
     "index11": {
       "id": 10,
@@ -97,7 +137,11 @@
       "operation_code": 1030,
       "area": "DIE-ATTACH",
       "operation": "4th Optical Inspection-HERM",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10497,
+      "totalProccessQty": 1003,
+      "oee": "64%",
+      "effectiveNess": "55%"
     },
     "index12": {
       "id": 11,
@@ -106,7 +150,11 @@
       "operation_code": 1031,
       "area": "WIREBOND",
       "operation": "4th Optical Inspection-Power",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10412,
+      "totalProccessQty": 1257,
+      "oee": "65%",
+      "effectiveNess": "46%"
     },
     "index13": {
       "id": 12,
@@ -115,7 +163,11 @@
       "operation_code": 1032,
       "area": "Area13",
       "operation": "4th Opt.Insp/Lead Trim",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10206,
+      "totalProccessQty": 1193,
+      "oee": "30%",
+      "effectiveNess": "73%"
     },
     "index14": {
       "id": 13,
@@ -124,7 +176,11 @@
       "operation_code": 1033,
       "area": "Area14",
       "operation": "Base Plate Prebend",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10285,
+      "totalProccessQty": 1191,
+      "oee": "91%",
+      "effectiveNess": "40%"
     },
     "index15": {
       "id": 14,
@@ -133,7 +189,11 @@
       "operation_code": 1034,
       "area": "Area15",
       "operation": "Capacitor Attach/3RD Opt. Insp.",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10470,
+      "totalProccessQty": 1026,
+      "oee": "42%",
+      "effectiveNess": "95%"
     },
     "index16": {
       "id": 15,
@@ -142,7 +202,11 @@
       "operation_code": 1035,
       "area": "Area16",
       "operation": "Annealing",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10298,
+      "totalProccessQty": 1268,
+      "oee": "48%",
+      "effectiveNess": "6%"
     },
     "index17": {
       "id": 16,
@@ -151,7 +215,11 @@
       "operation_code": 1036,
       "area": "Area17",
       "operation": "Capacitor Attach",
-      "machine_name": "MACHINE-2"
+      "machine_name": "MACHINE-2",
+      "operatorIdNum": 10240,
+      "totalProccessQty": 1201,
+      "oee": "83%",
+      "effectiveNess": "62%"
     },
     "index18": {
       "id": 17,
@@ -160,7 +228,11 @@
       "operation_code": 1037,
       "area": "Area18",
       "operation": "Capacitor Attach",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10324,
+      "totalProccessQty": 1109,
+      "oee": "40%",
+      "effectiveNess": "20%"
     },
     "index19": {
       "id": 18,
@@ -169,7 +241,11 @@
       "operation_code": 1038,
       "area": "Area19",
       "operation": "Capacitor Attach",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10476,
+      "totalProccessQty": 1300,
+      "oee": "52%",
+      "effectiveNess": "32%"
     },
     "index20": {
       "id": 19,
@@ -178,7 +254,11 @@
       "operation_code": 1039,
       "area": "Area20",
       "operation": "Capacitor Attach",
-      "machine_name": "MACHINE-3"
+      "machine_name": "MACHINE-3",
+      "operatorIdNum": 10204,
+      "totalProccessQty": 1164,
+      "oee": "65%",
+      "effectiveNess": "22%"
     }
   }
 }
